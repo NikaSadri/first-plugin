@@ -4,7 +4,7 @@
 Plugin Name: First Plugin
 Plugin URI: https://+++/
 Description: It's Nika's first plugin.
-Version: 0.1
+Version: 1.0
 Requires at least: 5.8
 Requires PHP: 5.6.20
 Author: Nika
