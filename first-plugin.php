@@ -12,3 +12,17 @@ Author URI: +++/
 License: GPLv2 or later
 Text Domain: first-plugin
 */
+
+add_filter("the_title","add_star_to_title");
+
+function add_star_to_title($title){
+
+    $title .= " * ";
+
+    return $title;
+    
+}
+
+
+
+
